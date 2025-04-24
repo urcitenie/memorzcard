@@ -1,2 +1,3 @@
 # memorzcard
-skibibi p diddy
+
+garambararamgaram

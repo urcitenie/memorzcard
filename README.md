@@ -1,0 +1,2 @@
+# memorzcard
+skibibi p diddy
